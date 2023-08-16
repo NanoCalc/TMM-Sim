@@ -6,6 +6,8 @@ To use the TMM-Sim, one first specifies the wavelength ($\lambda$) dependent com
 
 ![FIG-1](https://github.com/NanoCalc/TMM-Sim/assets/102557510/e73db4fb-d698-490f-b0be-0291b9bf78f4)
 
+The program interface clearer requests to the user a input.xlsx file. All the information about the device can be easily filled in this file, as can be seen below for a device with the BHJ structure.
+
 # Institutions
 <sup>a</sup>Institute of  Physics, Federal University of Rio de Janeiro, 21941-909, Rio de Janeiro-RJ, Brazil.<br>
 <sup>b</sup>Department of Physics, Federal University of Paraná, 81531-980, Curitiba-PR, Brazil.<br>
