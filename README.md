@@ -4,6 +4,8 @@ The simulation tool is specifically designed to model devices that feature up to
 
 To use the TMM-Sim, one first specifies the wavelength ($\lambda$) dependent complex refractive index $\eta(\lambda)$ (optical constants) and thickness of each layer in the system. The TMM-Sim is a simple and powerful tool providing a graphical interface to facilitate its use.
 
+![FIG-1](https://github.com/NanoCalc/TMM-Sim/assets/102557510/e73db4fb-d698-490f-b0be-0291b9bf78f4)
+
 # Institutions
 <sup>a</sup>Institute of  Physics, Federal University of Rio de Janeiro, 21941-909, Rio de Janeiro-RJ, Brazil.<br>
 <sup>b</sup>Department of Physics, Federal University of Paraná, 81531-980, Curitiba-PR, Brazil.<br>
