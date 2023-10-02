@@ -10,6 +10,12 @@ The program interface clearer requests to the user a input.xlsx file. All the in
 
 ![FIG-2](https://github.com/NanoCalc/TMM-Sim/assets/102557510/724f54fb-1297-4365-841d-0dda02ec5527)
 
+**The software binaries can be downloaded for the following operating systems:**  [*Unix-like systems (Linux)*](https://github.com/NanoCalc/TMM-Sim/releases/download/v1.0/TMM-Sim-Unix.zip), [*Windows*](https://github.com/NanoCalc/TMM-Sim/releases/download/v1.0/TMM-Sim-Windows.zip) and [*macOS*](https://github.com/NanoCalc/TMM-Sim/releases/download/v1.0/TMM-Sim-MacOS.zip).
+
+`TMM-Sim` can also be used online on our website [nanocalc.org](https://nanocalc.org).
+
+Remark: The calculation of photocurrent versus active layer thickness is not implemented on the website due to processing limitations.
+
 # Institutions
 <sup>a</sup>Institute of  Physics, Federal University of Rio de Janeiro, 21941-909, Rio de Janeiro-RJ, Brazil.<br>
 <sup>b</sup>Department of Physics, Federal University of Paraná, 81531-980, Curitiba-PR, Brazil.<br>
