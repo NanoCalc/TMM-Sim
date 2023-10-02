@@ -16,6 +16,14 @@ The program interface clearer requests to the user a input.xlsx file. All the in
 
 Remark: The calculation of photocurrent versus active layer thickness is not implemented on the website due to processing limitations.
 
+# Authors
+* [Leandro Benatto](https://orcid.org/0000-0001-9976-3574)<sup>a,b</sup>
+* [Graziâni Candiotto](https://orcid.org/0000-0001-6755-660X)<sup>a</sup>
+* [Omar Mesquita](https://orcid.org/0000-0002-6656-5683)<sup>a</sup>
+* [Lucimara S. Roman](https://orcid.org/0000-0001-6567-5920)<sup>b</sup>
+* [Rodrigo B. Capaz](https://orcid.org/0000-0001-5770-5026)<sup>a,c</sup>
+* [Marlus Koehler](https://orcid.org/0000-0001-9935-5060)<sup>b</sup>
+
 # Institutions
 <sup>a</sup>Institute of  Physics, Federal University of Rio de Janeiro, 21941-909, Rio de Janeiro-RJ, Brazil.<br>
 <sup>b</sup>Department of Physics, Federal University of Paraná, 81531-980, Curitiba-PR, Brazil.<br>
