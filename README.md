@@ -29,6 +29,11 @@ Remark: The calculation of photocurrent versus active layer thickness is not imp
 <sup>b</sup>Department of Physics, Federal University of Paraná, 81531-980, Curitiba-PR, Brazil.<br>
 <sup>c</sup>Brazilian Nanotechnology National Laboratory (LNNano), Brazilian Center for Research in Energy and Materials (CNPEM), 13083-100, Campinas- SP, Brazil.<br/>
 
+# Developers
+* [Leandro Benatto](https://github.com/LeandroBenatto)
+* [Omar Mesquita](https://github.com/OmarMesqq)
+* [Graziâni Candiotto](https://github.com/gcandiotto)
+
 # Acknowledgments
 The authors acknowledge financial support from LCNano/SisNANO 2.0 (grant 442591/2019-5), INCT - Carbon Nanomaterials and INCT - Materials Informatics. L.B. (grant E-26/202.091/2022 process 277806), O.M. (grant E-26/200.729/2023 process 285493) and G.C. (grant E-26/200.627/2022 and E-26/210.391/2022 process 271814) are greatfully for financial support from FAPERJ. The authors also acknowledge the computational support of Núcleo Avançado de Computação de Alto Desempenho (NACAD/COPPE/UFRJ), Sistema Nacional de Processamento de Alto Desempenho (SINAPAD) and Centro Nacional de Processamento de Alto Desempenho em São Paulo (CENAPAD-SP) and technical support of SMMOL - solutions in functionalyzed materials.
 
