@@ -4,11 +4,11 @@ The simulation tool is specifically designed to model devices that feature up to
 
 To use the TMM-Sim, one first specifies the wavelength ($\lambda$) dependent complex refractive index $\eta(\lambda)$ (optical constants) and thickness of each layer in the system. The TMM-Sim is a simple and powerful tool providing a graphical interface to facilitate its use.
 
-![FIG-1](https://github.com/NanoCalc/TMM-Sim/assets/102557510/e73db4fb-d698-490f-b0be-0291b9bf78f4)
+![FIG-1](https://github.com/NanoCalc/TMM-Sim/assets/129612477/f0c6cade-75dd-45d2-a008-fc769eb546fd)
 
 The program interface clearer requests to the user a input.xlsx file. All the information about the device can be easily filled in this file, as can be seen below for a device with the BHJ structure.
 
-![FIG-2](https://github.com/NanoCalc/TMM-Sim/assets/102557510/724f54fb-1297-4365-841d-0dda02ec5527)
+![FIG-2](https://github.com/NanoCalc/TMM-Sim/assets/129612477/2a908e2a-3467-44d8-ae01-d3bdaa3a511d)
 
 **Software binaries along with example spectral data can be downloaded for the following operating systems:**  [*Unix-like systems (Linux)*](https://github.com/NanoCalc/TMM-Sim/releases/download/v1.0/TMM-Sim-Unix.zip), [*Windows*](https://github.com/NanoCalc/TMM-Sim/releases/download/v1.0/TMM-Sim-Windows.zip) and [*macOS*](https://github.com/NanoCalc/TMM-Sim/releases/download/v1.0/TMM-Sim-MacOS.zip).
 
