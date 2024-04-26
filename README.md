@@ -16,7 +16,7 @@ Detailed instructions for using YMM-Sim can be consulted in our published articl
 
  [![DOI:10.1016/j.cpc.2024.109206](https://img.shields.io/badge/DOI-10.1016/j.cpc.2024.109206-B31B1B.svg)](https://doi.org/10.1016/j.cpc.2024.109206)
 
-**The preprint of this article is available for download:** [here](https://github.com/NanoCalc/TMM-Sim/blob/main/TMM−Sim: A Versatile Tool for Optical Simulation of Thin−Film Solar Cells.pdf).
+**The preprint of this article is available for download:** [here](https://github.com/NanoCalc/TMMSim/blob/main/TMM%E2%88%92Sim%3A%20A%20Versatile%20Tool%20for%20Optical%20Simulation%20of%20Thin%E2%88%92Film%20Solar%20Cells.pdf).
 
 **Software binaries along with example spectral data can be downloaded for the following operating systems:**  [*Unix-like systems (Linux)*](https://github.com/NanoCalc/TMM-Sim/releases/download/v1.0/TMM-Sim-Unix.zip), [*Windows*](https://github.com/NanoCalc/TMM-Sim/releases/download/v1.0/TMM-Sim-Windows.zip) and [*macOS*](https://github.com/NanoCalc/TMM-Sim/releases/download/v1.0/TMM-Sim-MacOS.zip).
 
