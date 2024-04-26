@@ -10,6 +10,14 @@ The program interface clearer requests to the user a input.xlsx file. All the in
 
 ![FIG-2](https://github.com/NanoCalc/TMM-Sim/assets/129612477/2a908e2a-3467-44d8-ae01-d3bdaa3a511d)
 
+Detailed instructions for using YMM-Sim can be consulted in our published article:
+
+**TMM−Sim: A Versatile Tool for Optical Simulation of Thin−Film Solar Cells, Computer Physics Communications, 300, 2024, 109206.** 
+
+ [![DOI:10.1016/j.cpc.2024.109206](https://img.shields.io/badge/DOI-10.1016/j.cpc.2024.109206-B31B1B.svg)](https://doi.org/10.1016/j.cpc.2024.109206)
+
+**The preprint of this article is available for download:** [here](https://github.com/NanoCalc/TMM-Sim/blob/main/TMM−Sim: A Versatile Tool for Optical Simulation of Thin−Film Solar Cells.pdf).
+
 **Software binaries along with example spectral data can be downloaded for the following operating systems:**  [*Unix-like systems (Linux)*](https://github.com/NanoCalc/TMM-Sim/releases/download/v1.0/TMM-Sim-Unix.zip), [*Windows*](https://github.com/NanoCalc/TMM-Sim/releases/download/v1.0/TMM-Sim-Windows.zip) and [*macOS*](https://github.com/NanoCalc/TMM-Sim/releases/download/v1.0/TMM-Sim-MacOS.zip).
 
 `TMM-Sim` can also be used online on our website [nanocalc.org](https://nanocalc.org).
